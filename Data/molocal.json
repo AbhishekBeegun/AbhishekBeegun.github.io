@@ -1,16 +1,15 @@
 [
-    {"titles":[
-        {"rdr":"Riviere Du Rempart"},
-        {"svn":"Savanne"},
-        {"pl":"Port Louis"},
-        {"pw":"Plaine Willhems"},
-        {"moka":"Moka"},
-        {"flq":"Flacq"},
-        {"gp":"Grand Port"},
-        {"br":"Black River"},
-        {"pample":"Pamplemousse"},
-        {"rdg":"Rodrigues"}
-    ] },
+    {   "rdr":"Riviere Du Rempart",
+        "svn":"Savanne",
+        "pl":"Port Louis",
+        "pw":"Plaine Willhems",
+        "moka":"Moka",
+        "flq":"Flacq",
+        "gp":"Grand Port",
+        "br":"Black River",
+        "pample":"Pamplemousse",
+        "rdg":"Rodrigues"
+     },
     {"RDR":[
         {"dtl":"🏆 Overall Score","val":"75%","id":"Green"},
         {"dtl":"❤️ Liked by residents","val":"👍54% 👎8%","id":"Red"},
