@@ -1,5 +1,5 @@
-{
-    "titles":[
+[
+    {"titles":[
         {"rdr":"Riviere Du Rempart"},
         {"svn":"Savanne"},
         {"pl":"Port Louis"},
@@ -10,8 +10,8 @@
         {"br":"Black River"},
         {"pample":"Pamplemousse"},
         {"rdg":"Rodrigues"}
-    ] ,
-    "RDR":[
+    ] },
+    {"RDR":[
         {"dtl":"🏆 Overall Score","val":"75%","id":"Green"},
         {"dtl":"❤️ Liked by residents","val":"👍54% 👎8%","id":"Red"},
         {"dtl":"🦺 Safety","val":"Great"},
@@ -22,8 +22,8 @@
         {"dtl":"🏢 Place to work","val":"Good"},
         {"dtl":"🥳 Fun / Nightlife","val":"Bad"},
         {"dtl":"🚶 Walkability","val":"Great"}
-    ],
-    "SVN":[
+    ]},
+    {"SVN":[
         {"dtl":"🏆 Overall Score","val":"73%"},
         {"dtl":"❤️ Liked by residents","val":"👍83% 👎23%"},
         {"dtl":"🦺 Safety","val":"Great"},
@@ -34,8 +34,8 @@
         {"dtl":"🏢 Place to work","val":"Good"},
         {"dtl":"🥳 Fun / Nightlife","val":"Great"},
         {"dtl":"🚶 Walkability","val":"Good"}
-    ],
-    "PL":[
+    ]},
+    {"PL":[
         {"dtl":"🏆 Overall Score","val":"69%"},
         {"dtl":"❤️ Liked by residents","val":"👍51% 👎40%"},
         {"dtl":"🦺 Safety","val":"Bad"},
@@ -46,8 +46,8 @@
         {"dtl":"🏢 Place to work","val":"Great"},
         {"dtl":"🥳 Fun / Nightlife","val":"Great"},
         {"dtl":"🚶 Walkability","val":"Good"}
-    ],
-    "PW":[
+    ]},
+    {"PW":[
         {"dtl":"🏆 Overall Score","val":"70%"},
         {"dtl":"❤️ Liked by residents","val":"👍66% 👎28%"},
         {"dtl":"🦺 Safety","val":"Good"},
@@ -58,8 +58,8 @@
         {"dtl":"🏢 Place to work","val":"Great"},
         {"dtl":"🥳 Fun / Nightlife","val":"Great"},
         {"dtl":"🚶 Walkability","val":"Good"}
-    ],
-    "MOKA":[
+    ]},
+    {"MOKA":[
         {"dtl":"🏆 Overall Score","val":"70%"},
         {"dtl":"❤️ Liked by residents","val":"👍64% 👎57%"},
         {"dtl":"🦺 Safety","val":"Great"},
@@ -70,8 +70,8 @@
         {"dtl":"🏢 Place to work","val":"Good"},
         {"dtl":"🥳 Fun / Nightlife","val":"Bad"},
         {"dtl":"🚶 Walkability","val":"Great"}
-    ],
-    "PAMPLE":[
+    ]},
+    {"PAMPLE":[
         {"dtl":"🏆 Overall Score","val":"92%"},
         {"dtl":"❤️ Liked by residents","val":"👍90% 👎55%"},
         {"dtl":"🦺 Safety","val":"Great"},
@@ -82,8 +82,8 @@
         {"dtl":"🏢 Place to work","val":"Good"},
         {"dtl":"🥳 Fun / Nightlife","val":"Bad"},
         {"dtl":"🚶 Walkability","val":"Good"}
-    ],
-    "GP":[
+    ]},
+    {"GP":[
         {"dtl":"🏆 Overall Score","val":"43%"},
         {"dtl":"❤️ Liked by residents","val":"👍33% 👎18%"},
         {"dtl":"🦺 Safety","val":"Great"},
@@ -94,8 +94,8 @@
         {"dtl":"🏢 Place to work","val":"Good"},
         {"dtl":"🥳 Fun / Nightlife","val":"Bad"},
         {"dtl":"🚶 Walkability","val":"Bad"}
-    ],
-    "FLQ":[
+    ]},
+    {"FLQ":[
         {"dtl":"🏆 Overall Score","val":"89%"},
         {"dtl":"❤️ Liked by residents","val":"👍78% 👎26%"},
         {"dtl":"🦺 Safety","val":"Great"},
@@ -106,8 +106,8 @@
         {"dtl":"🏢 Place to work","val":"Good"},
         {"dtl":"🥳 Fun / Nightlife","val":"Bad"},
         {"dtl":"🚶 Walkability","val":"Bad"}
-    ],
-    "BR":[
+    ]},
+    {"BR":[
         {"dtl":"🏆 Overall Score","val":"62%"},
         {"dtl":"❤️ Liked by residents","val":"👍71% 👎43%"},
         {"dtl":"🦺 Safety","val":"Good"},
@@ -118,8 +118,8 @@
         {"dtl":"🏢 Place to work","val":"Good"},
         {"dtl":"🥳 Fun / Nightlife","val":"Great"},
         {"dtl":"🚶 Walkability","val":"Great"}
-    ],
-    "RDG":[
+    ]},
+    {"RDG":[
         {"dtl":"🏆 Overall Score","val":"93%"},
         {"dtl":"❤️ Liked by residents","val":"👍80% 👎33%"},
         {"dtl":"🦺 Safety","val":"Great"},
@@ -130,8 +130,8 @@
         {"dtl":"🏢 Place to work","val":"Good"},
         {"dtl":"🥳 Fun / Nightlife","val":"Good"},
         {"dtl":"🚶 Walkability","val":"Great"}
-    ],
-    "maps" : [
+    ]},
+    {"maps" : [
         {"rdr":"https://cdn.sanity.io/images/e7woiqxp/production/4c7e0aa385cdec539afe82a3ca073a96b78ee697-650x338.png?w=2000&fit=max&auto=format"},
         {"svn": "https://cdn.sanity.io/images/e7woiqxp/production/e953677149bd7c62328d4fd7e5824ae03d04293b-650x338.png?w=2000&fit=max&auto=format"},
         {"pl":"https://cdn.sanity.io/images/e7woiqxp/production/74081c45300ed3cf0be175f3324d37ab113a461a-650x338.png?w=2000&fit=max&auto=format"},
@@ -141,9 +141,9 @@
         {"gp":"https://cdn.sanity.io/images/e7woiqxp/production/f1a32f67974600ca1c2b6db32b70c04ddbfb270c-650x338.png?w=2000&fit=max&auto=format"},
         {"flq":"https://cdn.sanity.io/images/e7woiqxp/production/63cc98e6a17cb48ac7731f70e52a00087605a03a-650x338.png?w=2000&fit=max&auto=format"},
         {"br":"https://cdn.sanity.io/images/e7woiqxp/production/cd2c8dbeb0c0038546fb22ff3ee79c4894aebbdb-650x338.png?w=2000&fit=max&auto=format"}
-    ],
-    "img" : [
+    ]},
+    {"img" : [
         {"rdr":"https://cdn.sanity.io/images/e7woiqxp/production/6c088b7f878c304a7058a3fb51ca76ea8b70b149-1232x822.jpg?w=2000&fit=max&auto=format"},
         {"svn":"https://cdn.sanity.io/images/e7woiqxp/production/2361c8951baad05401955038d2b893053b030485-1243x1303.jpg?w=2000&fit=max&auto=format"}
-    ]
-}
+    ]}
+]
