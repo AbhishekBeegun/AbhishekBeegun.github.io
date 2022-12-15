@@ -130,21 +130,21 @@
         {"dtl":"🥳 Fun / Nightlife","val":"Good"},
         {"dtl":"🚶 Walkability","val":"Great"}
     ]},
-    {"maps" : [
-        {"rdr":"https://cdn.sanity.io/images/e7woiqxp/production/4c7e0aa385cdec539afe82a3ca073a96b78ee697-650x338.png?w=2000&fit=max&auto=format"},
-        {"svn": "https://cdn.sanity.io/images/e7woiqxp/production/e953677149bd7c62328d4fd7e5824ae03d04293b-650x338.png?w=2000&fit=max&auto=format"},
-        {"pl":"https://cdn.sanity.io/images/e7woiqxp/production/74081c45300ed3cf0be175f3324d37ab113a461a-650x338.png?w=2000&fit=max&auto=format"},
-        {"pw":"https://cdn.sanity.io/images/e7woiqxp/production/1e70b2df8e7f71f913cd09cc52ffc66f0e6ca863-1300x676.png?w=2000&fit=max&auto=format"},
-        {"pample":"https://cdn.sanity.io/images/e7woiqxp/production/715bcadc8e9d1980bc46ae0547ea60c65bf39608-650x338.png?w=2000&fit=max&auto=format"},
-        {"moka":"https://cdn.sanity.io/images/e7woiqxp/production/74b4c19f24e18c116881c5525b153074f71e7f84-650x338.png?w=2000&fit=max&auto=format"},
-        {"gp":"https://cdn.sanity.io/images/e7woiqxp/production/f1a32f67974600ca1c2b6db32b70c04ddbfb270c-650x338.png?w=2000&fit=max&auto=format"},
-        {"flq":"https://cdn.sanity.io/images/e7woiqxp/production/63cc98e6a17cb48ac7731f70e52a00087605a03a-650x338.png?w=2000&fit=max&auto=format"},
-        {"br":"https://cdn.sanity.io/images/e7woiqxp/production/cd2c8dbeb0c0038546fb22ff3ee79c4894aebbdb-650x338.png?w=2000&fit=max&auto=format"}
-    ]},
-    {"img" : [
-        {"rdr":"https://cdn.sanity.io/images/e7woiqxp/production/6c088b7f878c304a7058a3fb51ca76ea8b70b149-1232x822.jpg?w=2000&fit=max&auto=format"},
-        {"svn":"https://cdn.sanity.io/images/e7woiqxp/production/2361c8951baad05401955038d2b893053b030485-1243x1303.jpg?w=2000&fit=max&auto=format"}
-    ]},
+    {
+        "rdr":"https://cdn.sanity.io/images/e7woiqxp/production/4c7e0aa385cdec539afe82a3ca073a96b78ee697-650x338.png?w=2000&fit=max&auto=format",
+        "svn": "https://cdn.sanity.io/images/e7woiqxp/production/e953677149bd7c62328d4fd7e5824ae03d04293b-650x338.png?w=2000&fit=max&auto=format",
+        "pl":"https://cdn.sanity.io/images/e7woiqxp/production/74081c45300ed3cf0be175f3324d37ab113a461a-650x338.png?w=2000&fit=max&auto=format",
+        "pw":"https://cdn.sanity.io/images/e7woiqxp/production/1e70b2df8e7f71f913cd09cc52ffc66f0e6ca863-1300x676.png?w=2000&fit=max&auto=format",
+        "pample":"https://cdn.sanity.io/images/e7woiqxp/production/715bcadc8e9d1980bc46ae0547ea60c65bf39608-650x338.png?w=2000&fit=max&auto=format",
+        "moka":"https://cdn.sanity.io/images/e7woiqxp/production/74b4c19f24e18c116881c5525b153074f71e7f84-650x338.png?w=2000&fit=max&auto=format",
+        "gp":"https://cdn.sanity.io/images/e7woiqxp/production/f1a32f67974600ca1c2b6db32b70c04ddbfb270c-650x338.png?w=2000&fit=max&auto=format",
+        "flq":"https://cdn.sanity.io/images/e7woiqxp/production/63cc98e6a17cb48ac7731f70e52a00087605a03a-650x338.png?w=2000&fit=max&auto=format",
+        "br":"https://cdn.sanity.io/images/e7woiqxp/production/cd2c8dbeb0c0038546fb22ff3ee79c4894aebbdb-650x338.png?w=2000&fit=max&auto=format"
+    },
+    {
+        "rdr":"https://cdn.sanity.io/images/e7woiqxp/production/6c088b7f878c304a7058a3fb51ca76ea8b70b149-1232x822.jpg?w=2000&fit=max&auto=format",
+        "svn":"https://cdn.sanity.io/images/e7woiqxp/production/2361c8951baad05401955038d2b893053b030485-1243x1303.jpg?w=2000&fit=max&auto=format"
+    },
     {
         "os":"🏆 Overall Score",
         "lr":"❤️ Liked by residents",
