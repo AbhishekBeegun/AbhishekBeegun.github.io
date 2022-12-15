@@ -11,16 +11,16 @@
         "rdg":"Rodrigues"
      },
     {
-        "os":"🏆 Overall Score","osv":"75%",
-        "lr":" Liked by residents","lrv":"👍54% 👎8%",
-        "s":"🦺 Safety","sv":"Great",
-        "td":"🚦 Traffic density","tdv":"Clear",
-        "h":"🙃 Happiness","hv":"79%",
-        "p":"👪 Population","pv":"11 867",
-        "t":"🌡️ Temperature","tv":"23℃-30℃",
-        "pw":"🏢 Place to work","pwv":"Good",
-        "fn":"🥳 Fun / Nightlife","fnv":"Bad",
-        "w":"🚶 Walkability","wv":"Great"
+        "rdros":"75%",
+        "rdrlr":"👍54% 👎8%",
+        "rdrs":"Great",
+        "rdrtd":"Clear",
+        "rdrh":"79%",
+        "rdrp":"11 867",
+        "rdrt":"23℃-30℃",
+        "rdrpw":"Good",
+        "rdrfn":"Bad",
+        "rdrw":"Great"
     },
     {"SVN":[
         {"dtl":"🏆 Overall Score","val":"73%"},
@@ -144,5 +144,18 @@
     {"img" : [
         {"rdr":"https://cdn.sanity.io/images/e7woiqxp/production/6c088b7f878c304a7058a3fb51ca76ea8b70b149-1232x822.jpg?w=2000&fit=max&auto=format"},
         {"svn":"https://cdn.sanity.io/images/e7woiqxp/production/2361c8951baad05401955038d2b893053b030485-1243x1303.jpg?w=2000&fit=max&auto=format"}
-    ]}
+    ]},
+    {
+        "os":"🏆 Overall Score",
+        "lr":"❤️ Liked by residents",
+        "s":"🦺 Safety",
+        "td":"🚦 Traffic density",
+        "h":"🙃 Happiness",
+        "p":"👪 Population",
+        "t":"🌡️ Temperature",
+        "pw":"🏢 Place to work",
+        "fn":"🥳 Fun / Nightlife",
+        "w":"🚶 Walkability"
+    }
+
 ]
