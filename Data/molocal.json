@@ -11,16 +11,16 @@
         "rdg":"Rodrigues"
      },
     {
-        "dtl":"🏆 Overall Score","val":"75%","id":"Green",
-        "dtl":"❤️ Liked by residents","val":"👍54% 👎8%","id":"Red",
-        "dtl":"🦺 Safety","val":"Great",
-        "dtl":"🚦 Traffic density","val":"Clear",
-        "dtl":"🙃 Happiness","val":"79%",
-        "dtl":"👪 Population","val":"11 867",
-        "dtl":"🌡️ Temperature","val":"23℃-30℃",
-        "dtl":"🏢 Place to work","val":"Good",
-        "dtl":"🥳 Fun / Nightlife","val":"Bad",
-        "dtl":"🚶 Walkability","val":"Great"
+        "🏆 Overall Score":"75%","id":"Green",
+        "❤️ Liked by residents":"👍54% 👎8%","id":"Red",
+        "🦺 Safety":"Great",
+        "🚦 Traffic density":"Clear",
+        "🙃 Happiness":"79%",
+        "👪 Population":"11 867",
+        "🌡️ Temperature":"23℃-30℃",
+        "🏢 Place to work":"Good",
+        "🥳 Fun / Nightlife":"Bad",
+        "🚶 Walkability":"Great"
     },
     {"SVN":[
         {"dtl":"🏆 Overall Score","val":"73%"},
