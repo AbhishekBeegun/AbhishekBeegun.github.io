@@ -51,9 +51,17 @@
      },
      {
         "rdr":{
-          "title":"rdrdr",
+          "title":"Riviere Du Rempart",
           "map":"https://cdn.sanity.io/images/e7woiqxp/production/4c7e0aa385cdec539afe82a3ca073a96b78ee697-650x338.png?w=2000&fit=max&auto=format"
-        }  
+        },
+        "svn":{
+            "title" : "Savanne",
+            "map":"https://cdn.sanity.io/images/e7woiqxp/production/e953677149bd7c62328d4fd7e5824ae03d04293b-650x338.png?w=2000&fit=max&auto=format"
+        } , 
+        "pl":{
+            "title" :"Port Louis",
+            "map":"not avail"
+        }
       }
    
    ]
