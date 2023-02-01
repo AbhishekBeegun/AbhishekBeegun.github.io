@@ -10,8 +10,13 @@
       "coverphoto" : ""
      },
      {
-      "id":"",
-      "title" : "",
+      "id":"pl",
+      "title" : "Port Louis",
+      "coverphoto" : ""
+     },
+          {
+      "id":"br",
+      "title" : "Black River",
       "coverphoto" : ""
      },
           {
@@ -44,10 +49,11 @@
       "title" : "",
       "coverphoto" : ""
      },
-          {
-      "id":"",
-      "title" : "",
-      "coverphoto" : ""
-     }
+     {
+        "rdr":{
+          "title":"rdrdr",
+          "map":"https://cdn.sanity.io/images/e7woiqxp/production/4c7e0aa385cdec539afe82a3ca073a96b78ee697-650x338.png?w=2000&fit=max&auto=format"
+        }  
+      }
    
    ]
